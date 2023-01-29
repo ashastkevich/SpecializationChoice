@@ -1,0 +1,15 @@
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/bin/Debug/net6.0/Final test
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/bin/Debug/net6.0/Final test.deps.json
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/bin/Debug/net6.0/Final test.runtimeconfig.json
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/bin/Debug/net6.0/Final test.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/bin/Debug/net6.0/Final test.pdb
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/obj/Debug/net6.0/Final test.csproj.AssemblyReference.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/obj/Debug/net6.0/Final test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/obj/Debug/net6.0/Final test.AssemblyInfoInputs.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/obj/Debug/net6.0/Final test.AssemblyInfo.cs
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/obj/Debug/net6.0/Final test.csproj.CoreCompileInputs.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/obj/Debug/net6.0/Final test.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/obj/Debug/net6.0/refint/Final test.dll
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/obj/Debug/net6.0/Final test.pdb
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/obj/Debug/net6.0/Final test.genruntimeconfig.cache
+/Users/alekseishastkevich/Documents/Обучение GeekBrains/Введение в программирование/Final test/obj/Debug/net6.0/ref/Final test.dll
